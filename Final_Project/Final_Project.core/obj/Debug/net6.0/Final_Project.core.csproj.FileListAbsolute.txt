@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\bin\Debug\net6.0\Final_Project.core.deps.json
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\bin\Debug\net6.0\Final_Project.core.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\bin\Debug\net6.0\Final_Project.core.pdb
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\refint\Final_Project.core.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\Final_Project.core.pdb
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.core\obj\Debug\net6.0\ref\Final_Project.core.dll

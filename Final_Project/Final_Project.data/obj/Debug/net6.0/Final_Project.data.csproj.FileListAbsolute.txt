@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\bin\Debug\net6.0\Final_Project.data.deps.json
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\bin\Debug\net6.0\Final_Project.data.runtimeconfig.json
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\bin\Debug\net6.0\Final_Project.data.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\bin\Debug\net6.0\Final_Project.data.pdb
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\bin\Debug\net6.0\Final_Project.core.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\bin\Debug\net6.0\Final_Project.core.pdb
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.csproj.CopyComplete
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\refint\Final_Project.data.dll
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.pdb
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\Final_Project.data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\FINAL_CodeAcademy(Project)\Final_Project\Final_Project.data\obj\Debug\net6.0\ref\Final_Project.data.dll
